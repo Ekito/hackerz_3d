@@ -1,4 +1,4 @@
-TrackMyPet - Server part
+TrackMyPet - Arduino support
 ==
 
 About
